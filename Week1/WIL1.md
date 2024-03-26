@@ -28,6 +28,10 @@ Git은 버전 관리 및 협업을 위해 사용하는 오픈소스 소프트웨
  a. git add
 -파일 수정 후 로컬 저장소로 옮기기
  a. git commit 
+-깃허브랑 로컬이랑 연결
+git remote add origin https://github.com/MinJuune/2024-1-Beginner-Study.git
+git branch -M main
+git push -u origin main
 
 #수정할때
 1. 수정한 파일 저장-> "Modified" 상태
@@ -35,5 +39,5 @@ Git은 버전 관리 및 협업을 위해 사용하는 오픈소스 소프트웨
 3. git commit -m "" -> Staging Area에 있는 파일들을 커밋하여 로컬 저장소에 변경 사항을 저장
 4. git push origin main -> 로컬 저장소의 변경 사항을 원격 저장소인 GitHub의 "main" 브랜치에 푸시하여 변경 사항을 업로드
 
-
+실습
  https://github.com/MinJuune/MinJuune/tree/main/MinJuune
