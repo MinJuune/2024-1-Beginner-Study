@@ -29,9 +29,9 @@ Git은 버전 관리 및 협업을 위해 사용하는 오픈소스 소프트웨
 3. 파일 수정 후 로컬 저장소로 옮기기
    - `git commit`
 4. 깃허브와 로컬 연결
-git remote add origin https://github.com/MinJuune/2024-1-Beginner-Study.git
-git branch -M main
-git push -u origin main
+   - `git remote add origin https://github.com/MinJuune/2024-1-Beginner-Study.git`
+   - `git branch -M main`
+   - `git push -u origin main`
 
 
 # 수정할 때
