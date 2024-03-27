@@ -21,3 +21,6 @@
  1. merge commit: 병합되는 각각의 커밋을 그대로 유지하고 새로운 병합 커밋을 생성
  2. squash and merge: 여러개의 커밋을 하나의 커밋으로 압축하여 병합. 즉, 브랜치의 모든 변경사항을 하나의 커밋으로 만들어 병합
  3. rebase and merge: 병합 대상 브랜치의 커밋들을 현재 브랜치의 끝에 순차적으로 재배치한 후, 하나의 커밋으로 병합
+
+# 실습링크
+https://github.com/MinJuune/2024-1-Beginner-Study/pull/2
