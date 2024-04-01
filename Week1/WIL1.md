@@ -42,4 +42,4 @@ Git은 버전 관리 및 협업을 위해 사용하는 오픈소스 소프트웨
 
 
 # 실습
- https://github.com/MinJuune/MinJuune/tree/main/MinJuune
+https://github.com/MinJuune/MinJuune
